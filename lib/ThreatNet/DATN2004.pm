@@ -1,9 +1,10 @@
 package ThreatNet::DATN2004;
 
+use 5.005;
 use strict;
 use vars qw{$VERSION};
 BEGIN {
-	$VERSION = '0.01';
+	$VERSION = '0.02';
 }
 
 1;
